@@ -1,2 +1,2 @@
 # Simon-says
-A basic Simon says game using HTML, CSS and JavaScript
+A basic Simon says game using HTML, CSS and JavaScript (practice to learn JavaScript)
